@@ -1,5 +1,5 @@
-SWIFT/Factory/Tag/Tag15 version 0.01
-====================================
+SWIFT/Factory/Tag/Tag15
+=======================
 
 Provides a generic TAG15 for a SWIFT message.
 
@@ -24,7 +24,7 @@ Currently no other modules are used.
 
 COPYRIGHT AND LICENCE
 
-Copyright (c) 2003, Gustav Schaffter. All rights reserved.
+Copyright (c) 2003, BIKER. All rights reserved.
 This program is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
 

@@ -15,7 +15,7 @@ BEGIN{
 }
 
 use vars qw($VERSION);
-$VERSION='0.01';
+$VERSION='0.02';
 
 ###########################################################################################################
 sub new {
@@ -268,11 +268,11 @@ Will return the version of this Perl module.
 
 =head1 AUTHOR
 
-Gustav Schaffter, E<lt>schaffter_cpan@hotmail.comE<gt>
+BIKER, E<lt>biker_cpan@hotmail.comE<gt>
 
 =head1 COPYRIGHT
 
-Copyright (c) 2003, Gustav Schaffter. All rights reserved.
+Copyright (c) 2003, BIKER. All rights reserved.
 This program is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
 
